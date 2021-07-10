@@ -42,6 +42,8 @@ Again you will be promped for
 
 type `'Y'` (Capital Y)
 
+The update of `rubygems` may take much longer time than its expected and you might think your VM is hang or so. But its usual and be patient.
 
+![](Images/long-update-time-for-ruby-gem.png)
 
 
