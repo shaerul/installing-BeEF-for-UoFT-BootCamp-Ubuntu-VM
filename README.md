@@ -75,11 +75,15 @@ Right Click on the link **`http://127.0.0.1:3000/ui/panel`** and select **`Open 
 
 ![](Images/open-in-web-browser.png)
 
-Or you can pase the follwoing link your Vagrant VM Browser
+Or you can paste the following link in your Vagrant VM's Web Browser (e.g. FireFox, Chrome)
 
 ```
 http://127.0.0.1:3000/ui/panel
 ```
+
+So its up and running
+
+![](Images/finally-here.png)
 
 
 
