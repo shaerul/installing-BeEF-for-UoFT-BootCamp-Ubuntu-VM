@@ -32,8 +32,16 @@ Change directory to beef
 cd beef
 ```
 
-The initial screen will appear and ask for `'Y'` (Capital Y) to start installation
+The initial screen will appear and ask for `'Y'` (Capital Y) to start the installation
 
 ![](Images/beef-initial-installation-screenshot.PNG)
+
+Again you will be promped for
+
+`Do you want to continue? [Y/n] Y`
+
+type `'Y'` (Capital Y)
+
+
 
 
