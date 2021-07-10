@@ -22,7 +22,9 @@ cd ~
 
 Download the BeEF repository from GitHub using git clone
 
+```
 git clone https://github.com/beefproject/beef
+```
 
 Change directory to beef
 
