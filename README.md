@@ -50,6 +50,6 @@ It might take a long time for `rubygems` to get updated and you might think your
 
 Looks like installation is successful
 
-![](Images/Instllation-done.png)
+![](Images/Instllation-done.PNG)
 
 
