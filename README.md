@@ -94,7 +94,7 @@ In a seperate case I encountered an error for not finding some gcc library files
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 ```
 
-If the add-apt-repository command cannot be found, run this instead
+If the `add-apt-repository` command cannot be found, run this instead
 
 
 ```
