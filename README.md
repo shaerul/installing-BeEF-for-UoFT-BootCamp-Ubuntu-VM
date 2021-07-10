@@ -53,7 +53,7 @@ Looks like installation is successful
 ![](Images/Instllation-done.PNG)
 
 
-now Change the password from **`beef`** to ```feeb``` or anything you want
+now Change the password from **`beef`** to **`feeb`** or anything you want
 
 ```
 nano config.yaml
@@ -61,7 +61,16 @@ nano config.yaml
 
 ![](Images/change-the-password.png)
 
-Save your change and Exit for nano
+Save your change and Exit nano
+
+Run newly installed BeEF
+
+```
+./beef
+```
+
+![](Images/beef-server-started.png)
+
 
 
 
