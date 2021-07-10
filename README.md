@@ -1,5 +1,5 @@
 ## BeEF step by step installation on Vagrant VM [Ubuntu 18.04]
-### This has been particularly written for the Students of Cyber Security Bootcamp under the University of Toronto, Canada
+### Note: This has been particularly written for the Vagrant VM provided for the Students of Cybersecurity Bootcamp, University of Toronto, Canada
 
 ```
 sudo apt update
