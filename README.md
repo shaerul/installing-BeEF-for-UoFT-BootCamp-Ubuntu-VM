@@ -71,6 +71,18 @@ Run newly installed BeEF
 
 ![](Images/beef-server-started.png)
 
+Right Click on the link `http://127.0.0.1:3000/ui/panel` and select **`Open Link`**
+
+![](Images/open-in-web-browser)
+
+Or you can pase the follwoing link your Vagrant VM Browser
+
+```
+`http://127.0.0.1:3000/ui/panel`
+```
+
+
+
 
 
 
