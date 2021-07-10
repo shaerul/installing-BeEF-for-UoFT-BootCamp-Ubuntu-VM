@@ -86,6 +86,28 @@ So its up and running
 ![](Images/finally-here.png)
 
 
+**Note:**
+
+In a seperate case I encountered an error for not finding some gcc library files and got it fixed using the following installations
+
+```
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+```
+
+If the add-apt-repository command cannot be found, run this instead
+
+
+```
+sudo apt install software-properties-common
+```
+
+```
+sudo apt update
+```
+
+```
+sudo apt install gcc-9
+```
 
 
 
