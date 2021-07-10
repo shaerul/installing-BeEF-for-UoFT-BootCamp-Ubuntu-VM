@@ -40,6 +40,8 @@ Again you will be promped for
 
 `Do you want to continue? [Y/n] Y`
 
+![](Images/again-promted-for-do-you-want-to-contnue.png)
+
 type `'Y'` (Capital Y)
 
 It might take a long time for `rubygems` to get updated and you might think your VM is hung. But it's normal and be patient.
