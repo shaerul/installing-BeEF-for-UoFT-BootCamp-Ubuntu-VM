@@ -48,4 +48,8 @@ It might take a long time for `rubygems` to get updated and you might think your
 
 ![](Images/long-update-time-for-ruby-gem.png)
 
+Looks like installation is successful
+
+![](Images/Instllation-doen.PNG)
+
 
