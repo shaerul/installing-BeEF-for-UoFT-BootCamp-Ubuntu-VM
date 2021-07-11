@@ -21,8 +21,10 @@ Download the BeEF repository from GitHub using git clone
 
 ```
 git clone https://github.com/beefproject/beef
+```
 
 Change directory to beef
+
 
 ```
 cd beef
@@ -110,7 +112,3 @@ sudo apt update
 ```
 sudo apt install gcc-9
 ```
-
-
-
-
