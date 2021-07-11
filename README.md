@@ -105,6 +105,8 @@ If the `add-apt-repository` command cannot be found, run this instead
 sudo apt install software-properties-common
 ```
 
+Then Run
+
 ```
 sudo apt update
 ```
