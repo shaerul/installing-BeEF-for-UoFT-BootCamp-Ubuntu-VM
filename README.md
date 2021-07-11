@@ -8,9 +8,6 @@ sudo apt update
 Now install Ruby and it Development suite
 
 ```
-```
-
-```
 sudo apt install ruby ruby-dev -y
 ```
 
@@ -24,7 +21,6 @@ Download the BeEF repository from GitHub using git clone
 
 ```
 git clone https://github.com/beefproject/beef
-```
 
 Change directory to beef
 
@@ -37,7 +33,6 @@ Run the installation command
 ```
 sudo ./install
 ```
-
 
 The initial screen will appear and ask for `'Y'` (Capital Y) to start the installation
 
@@ -60,7 +55,7 @@ Looks like installation is successful
 ![](Images/Instllation-done.PNG)
 
 
-now Change the password from **`beef`** to **`feeb`** or anything you want
+Now Change the password from **`beef`** to **`feeb`** or anything you want
 
 ```
 nano config.yaml
@@ -68,7 +63,7 @@ nano config.yaml
 
 ![](Images/change-the-password.png)
 
-Save your change and Exit nano
+Save your changes and Exit nano
 
 Run newly installed BeEF
 
