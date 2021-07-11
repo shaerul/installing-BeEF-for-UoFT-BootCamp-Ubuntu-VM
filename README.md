@@ -30,6 +30,7 @@ Change directory to beef
 
 ```
 cd beef
+sudo ./install
 ```
 
 The initial screen will appear and ask for `'Y'` (Capital Y) to start the installation
